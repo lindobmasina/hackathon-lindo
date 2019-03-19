@@ -23,7 +23,14 @@ def fibonacci(n):
             a = b
             b = c
         return b
+def factorial(n):
 
+    '''Return n!'''
+    answer=1
+    for i in range(1,n+1):
+        answer = answer * i
+    return answer
+    
 def reverse(word):
 
     '''Return word in reverse'''
