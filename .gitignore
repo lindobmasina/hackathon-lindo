@@ -1,2 +1,2 @@
-test.egg-info
-test/__pycache__
+*.egg-info
+hackathon_lindo/__pycache__
