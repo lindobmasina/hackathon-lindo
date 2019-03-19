@@ -8,7 +8,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/lindobmasina/test.git',
+    url='https://github.com/lindobmasina/hackaton-lindo.git',
     author='Lindokuhle Masina',
     author_email='lindobmasina@gmail.com'
 )
