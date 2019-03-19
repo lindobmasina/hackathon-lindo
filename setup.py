@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='hackathon_lindo',
+    name='hackathon',
     version='0.2',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
