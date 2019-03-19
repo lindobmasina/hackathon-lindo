@@ -14,7 +14,7 @@ def fibonacci(n):
     b = 1
 
     if n == 0:
-        return a
+        return 0
     elif n == 1:
         return b
     else:
