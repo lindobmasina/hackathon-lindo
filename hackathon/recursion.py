@@ -10,7 +10,7 @@ def fibonacci(n):
     FibArray = [0,1]
     '''Return nth term in fibonacci sequence'''
 
-    a = 0
+    a = 1
     b = 1
 
     if n == 0:
